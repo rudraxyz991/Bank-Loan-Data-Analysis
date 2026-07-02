@@ -7,7 +7,7 @@ This project involves a comprehensive analysis of bank loan data to monitor and 
 The bank requires a robust methodology to track loan issuing metrics to make informed lending decisions. The goal of this analysis is to evaluate historical loan data, identify trends in loan categories (e.g., Good Loans vs. Bad Loans), and measure key performance indicators (KPIs) such as Total Funded Amount, Average Interest Rate, and DTI (Debt-to-Income) ratios.
 
 ## Tools Used
-* **Database:** Microsoft SQL Server / MySQL *(Update to the specific SQL dialect you used)*
+* **Database:** Microsoft SQL Server / MySQL 
 * **Data Visualization:** Power BI
 * **Data Source:** `financial_loan.csv` (Internal Bank Data)
 
@@ -19,10 +19,10 @@ Through SQL queries, the following metrics were calculated:
 * **Average Interest Rate & DTI:** Evaluating the profitability and risk associated with the loan portfolio.
 
 ## Dashboard Highlights
-*(Note: Once you upload your images to the Dashboards folder, you can display them here!)*
+
 
 The Power BI dashboard provides an interactive interface to explore:
-1.  **Summary View:** High-level KPIs and overall loan status (Good vs. Bad).
+1.  **Summary View:** High-level KPIs and overall loan status (Good vs. Bad Loans).
 2.  **Overview View:** Geographic distributions (State-wise analysis), Purpose of loans, and Term lengths.
 3.  **Details View:** Granular borrower information and employee length trends.
 
